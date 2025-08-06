@@ -22,7 +22,7 @@ Trata-se de uma página pessoal responsiva no estilo Linktree, com acesso rápid
 
 Você pode ver um exemplo do layout abaixo:
 
-![Screensshot](./assets/assets/projeto.png)
+![Screensshot](./screenshot.png)
 
 ## 🚀 Como visualizar localmente
 
