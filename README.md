@@ -1,7 +1,7 @@
 # 🌐 Página de Links - @ludmila__monteiro
 
 Projeto desenvolvido como parte dos meus estudos em HTML, CSS e JavaScript.
-Trata-se de uma página pessoal responsiva no estilo Linktree, com acesso rápido às minhas redes e portfólio.
+O DevLinks é um navegador de links para usar como cartão de visitas online. 
 
 ## 🔗 Links disponíveis
 
@@ -17,6 +17,7 @@ Trata-se de uma página pessoal responsiva no estilo Linktree, com acesso rápid
 - CSS3
 - JavaScript
 - VS Code com Live Server
+- Figma
 
 ## 📸 Preview
 
